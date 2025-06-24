@@ -47,16 +47,22 @@ body {
   margin-bottom: 20px;
 }
 
+.social-links {
+  margin-top: 20px;
+}
+
 .social-links a {
   text-decoration: none;
   color: white;
-  background-color: #2980b9;
-  padding: 10px 15px;
-  margin: 0 5px;
+  background-color: #0077b6;
+  padding: 10px 16px;
+  margin: 5px;
   border-radius: 8px;
-  transition: background 0.3s;
+  display: inline-block;
+  transition: background 0.3s ease;
+  font-size: 14px;
 }
 
 .social-links a:hover {
-  background-color: #1c5980;
+  background-color: #023e8a;
 }
