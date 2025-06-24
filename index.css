@@ -66,3 +66,7 @@ body {
 .social-links a:hover {
   background-color: #023e8a;
 }
+.social-links a i {
+  margin-right: 8px;
+}
+
